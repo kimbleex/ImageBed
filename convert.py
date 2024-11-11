@@ -12,6 +12,6 @@ path = ["./BlogIMG/", "./THEME/anzhiyu/","./TeamSpeak3/"]
 # os.listdir(path[0])
 # print(os.listdir(path[0]))
 
-path_ = "./THEME/anzhiyu/MainWebPage/WebIcon.png"
+path_ = "./ChatGPT/ChatGPT-copy-copy.svg"
 img = Image.open(path_)
 img.save(path_.replace("png",'avif'),'AVIF')
