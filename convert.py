@@ -14,4 +14,4 @@ path = ["./BlogIMG/", "./THEME/anzhiyu/","./TeamSpeak3/"]
 
 path_ = "./ChatGPT/ChatGPT-copy-copy.svg"
 img = Image.open(path_)
-img.save(path_.replace("png",'avif'),'AVIF')
+img.save(path_.replace("svg",'avif'),'AVIF')
