@@ -12,6 +12,6 @@ path = ["./BlogIMG/", "./THEME/anzhiyu/","./TeamSpeak3/"]
 # os.listdir(path[0])
 # print(os.listdir(path[0]))
 
-path_ = "./ChatGPT/ChatGPT-copy-copy.svg"
+path_ = r".\THEME\anzhiyu\MainWebPage\bar.jpg"
 img = Image.open(path_)
-img.save(path_.replace("svg",'avif'),'AVIF')
+img.save(path_.replace("jpg",'avif'),'AVIF')
