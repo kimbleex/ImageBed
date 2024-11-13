@@ -12,6 +12,6 @@ path = ["./BlogIMG/", "./THEME/anzhiyu/","./TeamSpeak3/"]
 # os.listdir(path[0])
 # print(os.listdir(path[0]))
 
-path_ = r".\BlogIMG\Arch_GPU\cover.jpg"
+path_ = r".\THEME\anzhiyu\About\cover_dark.png"
 img = Image.open(path_)
-img.save(path_.replace("jpg",'avif'),'AVIF')
+img.save(path_.replace("png",'avif'),'AVIF')
