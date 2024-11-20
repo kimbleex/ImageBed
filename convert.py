@@ -13,6 +13,6 @@ import pillow_avif       # pillow-avif-plugin        1.2.2
 # for i in os.listdir(path[0]):
     
 # path_ = path[0] + i
-path_ = r"./THEME\anzhiyu\LeaveWords\cover.png"
+path_ = "./BlogIMG/AVIF_Pillow/vis_compare.png"
 img = Image.open(path_)
 img.save(path_.replace("png",'avif'),'AVIF')
