@@ -14,9 +14,9 @@ import pillow_avif       # pillow-avif-plugin        1.2.2
     
 # path_ = path[0] + i
 # ===========================
-path_ = r"./With_CRZ\84.png"
+path_ = r"./With_CRZ\workFirstYear\cover.jpg"
 img = Image.open(path_)
-img.save(path_.replace("png",'avif'),'AVIF')
+img.save(path_.replace("jpg",'avif'),'AVIF')
 
 # ============================
 
