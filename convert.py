@@ -20,7 +20,7 @@ import pillow_avif       # pillow-avif-plugin        1.2.2
 
 # ============================
 
-path = "./With_CRZ/workFirstYear/"
+path = "./With_CRZ/schoolFinal/"
 files = os.listdir(path)
 for i in files:
     if i.endswith(".jpg"):
