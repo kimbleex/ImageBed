@@ -14,9 +14,9 @@ import pillow_avif       # pillow-avif-plugin        1.2.2
     
 # path_ = path[0] + i
 # ===========================
-path_ = r"./BlogIMG\HandyToolsPy\success.png"
+path_ = r"./THEME\anzhiyu\Equipment\iphone-16.webp"
 img = Image.open(path_)
-img.save(path_.replace("png",'avif'),'AVIF')
+img.save(path_.replace("webp",'avif'),'AVIF')
 
 # ============================
 
