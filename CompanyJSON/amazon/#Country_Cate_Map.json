@@ -1,0 +1,68 @@
+{
+    "USA": [
+        "Amazon Devices & Accessories","Amazon Renewed","Appliances","Apps & Games", 
+        "Arts, Crafts & Sewing","Audible Books & Originals","Automotive","Baby",
+        "Beauty & Personal Care","Books","Camera & Photo Products","CDs & Vinyl",
+        "Cell Phones & Accessories","Clothing, Shoes & Jewelry","Collectible Coins",
+        "Computers & Accessories","Digital Educational Resources","Electronics",
+        "Entertainment Collectibles","Gift Cards","Grocery & Gourmet Food","Handmade Products",
+        "Health & Household","Home & Kitchen","Kindle Store","Kitchen & Dining","Movies & TV",
+        "Musical Instruments","Office Products","Patio, Lawn & Garden","Pet Supplies","Software",
+        "Sports & Outdoors","Sports Collectibles","Tools & Home Improvement","Toys & Games",
+        "Unique Finds","Video Games"
+        ],
+    "Canada" : [
+        "Amazon Devices & Accessories","Amazon Renewed","Apps for Android","Automotive","Baby",
+        "Beauty & Personal Care","Books","Clothing & Accessories","Clothing, Shoes & Accessories","Electronics",
+        "Gift Cards","Grocery & Gourmet Food","Handmade Products","Health & Personal Care","Home","Jewellery",
+        "Kindle Store","Luggage & Bags","Movies & TV Shows","Music","Musical Instruments, Stage & Studio",
+        "Office Products","Patio, Lawn & Garden","Pet Supplies","Shoes & Handbags","Software","Sports & Outdoors",
+        "Tools & Home Improvement","Toys & Games","Video Games","Watches"
+    ],
+    "UK" : [
+        "Amazon Devices & Accessories","Amazon Renewed","Apps & Games","Automotive","Baby Products","Beauty",
+        "Books","CDs & Vinyl","Climate Pledge Friendly","Computers & Accessories","DIY & Tools",
+        "DVD & Blu-ray","Electronics & Photo","Fashion","Garden","Gift Cards","Grocery","Handmade Products",
+        "Health & Personal Care","Home & Kitchen","Kindle Store","Large Appliances","Lighting",
+        "Musical Instruments & DJ","New Finds","PC & Video Games","Pet Supplies","Prime Video",
+        "Sports & Outdoors","Stationery & Office Supplies","Toys & Games"
+    ],
+    "Japan" : [
+        "Amazon Devices & Accessories","Amazon Renewed","Apps & Games","Automotive","Baby","Beauty",
+        "Clothing, Shoes & Jewelry","Computers","DIY, Tools & Garden","DVD","Electronics",
+        "Food, Beverages & Alcohol","Foreign Language Books","Gift Cards","Health & Personal Care",
+        "Hobbies","Home & Kitchen","Japanese Books","Kindle Store","Large Appliances","Music",
+        "Musical Instruments","Office Products","Pet Supplies","Prime Video","Software","Sports & Outdoors",
+        "Toys & Games","Video Games"
+    ],
+    "Germany" : [
+        "Amazon Devices & Accessories","Amazon Renewed","Apps & Games","Automotive","Baby Products",
+        "Beauty","Books","Camera & Photo","CDs & Vinyl","Climate Pledge Friendly","Computers & Accessories",
+        "DIY & Tools","DVD & Blu-ray","Electronics & Photo","Fashion","Garden","Gift Cards","Grocery",
+        "Handmade Products","Health & Personal Care","Home & Kitchen","Kindle Store","Large Appliances","Lighting",
+        "Musical Instruments & DJ","New Finds","PC & Video Games","Pet Supplies","Prime Video","Software",
+        "Sports & Outdoors","Stationery & Office Supplies","Toys"
+    ],
+    "France" : [
+            "Amazon Devices & Accessories","Amazon Renewed","Apps & Games","Automotive","Baby Products",
+            "Beauty","Books","CDs & Vinyl","Climate Pledge Friendly","Computers","DIY & Tools","Electronics",
+            "Fashion","Garden","Gift Cards","Grocery","Handmade Products","Health & Household","Home & Kitchen",
+            "Kindle Store","Large Appliances","Lighting","Movies & TV","Musical Instruments","New Finds",
+            "Pet Supplies","Software","Sports & Outdoors","Office Products","Toys & Games","Videogames"
+            ],
+    "Italy" : [
+            "Grocery","Amazon Renewed","Apps & Games","Audible Books & Originals","Automotive","Beauty",
+            "Gift Cards","Office Products","Home & Kitchen","CDs & Vinyl","Climate Pledge Friendly",
+            "Amazon Devices & Accessories","Electronics","DIY & Tools","Movies & TV","Garden",
+            "Toys & Games","Large Appliances","Lighting","Computers","Kindle Store","Books","Fashion",
+            "New Finds","Baby Products","Handmade Products","Pet Supplies","Health & Household","Software",
+            "Sports & Outdoors","Musical Instruments","Videogames"
+    ],
+    "Spain" : [
+            "Grocery","Amazon Renewed","Apps & Games","Baby Products","Beauty","DIY & Tools","CDs & Vinyl",
+            "Gift Cards","Climate Pledge Friendly","Automotive","Sports & Outdoors","Amazon Devices & Accessories",
+            "Electronics","Luggage","Large Appliances","Home & Kitchen","Lighting","Computers","Musical Instruments",
+            "Garden","Toys & Games","Books","Fashion","New Finds","Office Products","Movies & TV",
+            "Handmade Products", "Pet Supplies","Health & Household","Software","Kindle Store","Videogames"
+    ]
+}
