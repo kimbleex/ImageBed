@@ -14,15 +14,15 @@ import pillow_avif       # pillow-avif-plugin        1.2.2
     
 # path_ = path[0] + i
 # ===========================
-# path_ = r"./Cover_unused\cover.png"
-# img = Image.open(path_)
-# img.save(path_.replace("png",'avif'),'AVIF')
+path_ = r"./BlogIMG\GO_Install\cover.png"
+img = Image.open(path_)
+img.save(path_.replace("png",'avif'),'AVIF')
 
 # ============================
 
-path = "./BlogIMG/Follow/"
-files = os.listdir(path)
-for i in files:
-    if i.endswith(".png"):
-        img = Image.open(path + i)
-        img.save(path + i.replace("png",'avif'),'AVIF')
+# path = "./BlogIMG/Follow/"
+# files = os.listdir(path)
+# for i in files:
+#     if i.endswith(".png"):
+#         img = Image.open(path + i)
+#         img.save(path + i.replace("png",'avif'),'AVIF')
