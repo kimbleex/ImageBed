@@ -14,7 +14,7 @@ import pillow_avif       # pillow-avif-plugin        1.2.2
     
 # path_ = path[0] + i
 # ===========================
-path_ = r"./BlogIMG\GO_Install\cover.png"
+path_ = r"./BlogIMG\Vercel_Directory_Listing\good.png"
 img = Image.open(path_)
 img.save(path_.replace("png",'avif'),'AVIF')
 
